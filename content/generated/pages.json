@@ -1,0 +1,447 @@
+[
+  {
+    "enabled": true,
+    "slug": "sepeda",
+    "pageType": "database",
+    "navLabel": "Bikes",
+    "navVisible": true,
+    "title": "Sepeda Onthel Purwodadi: Bike Types & Limiteds",
+    "description": "Explore sepeda in Onthel Purwodadi: bicycle choices, limited updates, and how to verify a bike before buying or upgrading it in the Roblox game.",
+    "hero": {
+      "eyebrow": "Onthel Purwodadi Roblox guide",
+      "heading": "Sepeda Onthel Purwodadi: Bikes and Limited Updates",
+      "lead": "Onthel Purwodadi is described as featuring more than one kind of bicycle. A recently seen game title mentions a limited update, but a complete, current bike catalog, prices and availability have not been verified."
+    },
+    "sections": [
+      {
+        "id": "bike-variety",
+        "heading": "Bicycles in Onthel Purwodadi",
+        "paragraphs": [
+          "The developer description, as reproduced by game-metadata services, identifies bicycle choice as part of the core experience. This supports looking for different kinds of sepeda (bicycles), but does not establish a verified catalog of individual model names.",
+          "If you want to compare bicycles, first decide whether your question is about appearance, availability or behavior in a particular riding activity. Each needs separate evidence: an image may establish appearance, a current shop label can show availability, and controlled gameplay tests would be needed for meaningful performance claims.",
+          "This guide deliberately avoids calling any bike the “fastest” or “rarest” without trustworthy first-hand data. A named model should only enter a searchable list when its on-screen label or official announcement can be captured and dated."
+        ]
+      },
+      {
+        "id": "confirmed-list",
+        "heading": "What Is Actually Confirmed About Bike Types?",
+        "subsections": [
+          {
+            "heading": "Bicycle variety is part of the game",
+            "paragraphs": [
+              "Available public descriptions refer to different bicycles rather than a single permanently fixed bike. No complete named inventory was available for independent verification."
+            ]
+          },
+          {
+            "heading": "Exact names and prices require gameplay evidence",
+            "paragraphs": [
+              "To confirm a name, match a permitted in-game screenshot with its visible label. To confirm a price, check the current purchase interface and capture its currency or other requirements."
+            ]
+          },
+          {
+            "heading": "Limited availability can change",
+            "paragraphs": [
+              "The “[NEW LIMITED & UPDATE]” listing label is an observation about a changing Roblox title. It does not verify which item is limited or whether a promotion is still active."
+            ]
+          },
+          {
+            "heading": "Bike attributes are not assumed",
+            "paragraphs": [
+              "A screenshot of a bicycle does not prove speed, acceleration, handling or rarity values. Such attributes should only be published after observation or a reliable developer source."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a-practical-bike-comparison-checklist",
+        "heading": "A Practical Bike Comparison Checklist",
+        "paragraphs": [
+          "Before calling one sepeda better than another, write down what the comparison is supposed to answer. A player choosing a bicycle for its appearance needs visible evidence of its design. A player searching for a limited bike needs the exact displayed name, availability conditions and the date those conditions were observed. A player asking about speed needs a repeatable riding comparison under comparable conditions. These are separate claims, so a screenshot of a stylish bicycle does not establish that it is the fastest.",
+          "Start with a small record for each bike you can personally verify: the displayed name, where you saw it, whether you could select it at the time, the date of your observation and an image if capture is permitted. If a shop displays a cost or requirement, record the exact wording rather than converting it into an assumed currency or claiming that all players see the same offer. This produces a useful bike list without guessing at unavailable models.",
+          "When comparing two bicycles, keep the route and riding conditions similar. A bike may feel different because the player turned differently, entered a different road or used another control method. A meaningful comparison must describe the test conditions and what was actually measured. Until comparable tests exist, this page will describe confirmed bike availability and player decision factors without publishing a fabricated performance ranking."
+        ]
+      },
+      {
+        "id": "check-new",
+        "heading": "How to Check for New or Limited Bikes",
+        "paragraphs": [
+          "Start with the official Roblox experience and any developer-posted announcement. Check what the current game interface says before treating a social post, search result or earlier guide as current.",
+          "When comparing player screenshots, check that they show the same game, a readable name or label, and a date or version context. Onthel Purwodadi is not interchangeable with a real-world bicycle shop in Purwodadi.",
+          "For a useful future bike index, each record should have a confirmed in-game name, visual evidence, category only when shown, acquisition method only when documented, and the date of the check. The present page does not invent such entries."
+        ]
+      },
+      {
+        "id": "limited-bikes--how-to-separate-an-update-from-an-offer",
+        "heading": "Limited Bikes: How to Separate an Update From an Offer",
+        "paragraphs": [
+          "For players tracking sepeda onthel purwodadi limited releases, the appearance of LIMITED in an Onthel Purwodadi title is an update signal, not a complete catalog. A limited release could refer to an item, an availability window or another feature; the title alone does not tell us which. Open the official listing and any current in-game information before assuming that a particular model or deadline applies. A trustworthy limited-bike guide should show a primary source and the date it was checked.",
+          "If an offer is visible, note whether it is a new bicycle or a change to an existing one. Also note whether the interface shows a prerequisite. Avoid trusting a copied countdown or price without a current screenshot. A video or guide created during a previous update may show a legitimate past item while no longer reflecting current availability. That is why our bike page distinguishes historical sightings from a currently obtainable sepeda.",
+          "Players sometimes search for “sepeda limited onthel purwodadi” because they fear missing a time-limited opportunity. The most useful answer is not a dramatic claim that every listed item can still be purchased. It is a short, dated explanation of what has been confirmed, what has not and where the player can independently check. As more first-hand screenshots become available, confirmed limited entries can be added without changing this page’s primary intent."
+        ]
+      },
+      {
+        "id": "choose",
+        "heading": "Choosing a Bike for the Way You Ride",
+        "paragraphs": [
+          "The public material describes exploration and possible challenges, so a sensible first question is where you want to ride. A player interested in casual town exploration may prioritize a different experience from someone investigating a challenge; we cannot claim a particular model is best without gameplay data.",
+          "Visual customization is a separate topic. If you already have a bicycle and want to change its appearance or upgrade it, see the cara custom sepeda guide rather than looking for an unverified “best bikes” leaderboard.",
+          "If your purpose is to discover roads and riding areas, use our lokasi guide. It differentiates described areas from exact map points that have not been established."
+        ],
+        "links": [
+          {
+            "label": "Bike customization and upgrades",
+            "slug": "custom-sepeda",
+            "description": "Understand the difference between cosmetic modifications and possible upgrades."
+          },
+          {
+            "label": "Places to ride",
+            "slug": "lokasi",
+            "description": "Explore described town streets, neighborhoods and local roads."
+          }
+        ]
+      },
+      {
+        "id": "which-bicycle-should-you-pick-first",
+        "heading": "Which Bicycle Should You Pick First?",
+        "paragraphs": [
+          "For a first ride, prioritize a bicycle you can actually access and control comfortably. Try it on familiar streets and observe how it responds before seeking a hard-to-get model. If your goal is sightseeing, appearance and ease of navigation may matter more to you than an unverified top-speed claim. If your goal is a challenge, identify the particular riding task first; a generic “best bike” list cannot reliably answer every task.",
+          "If you are deciding whether to upgrade or change bikes, first check what the game currently offers on the bicycle you own. The custom sepeda guide separates visible modifications from potential upgrades, helping you avoid spending time looking for a feature that may not exist on a given model. The lokasi guide, meanwhile, can help you choose an area for a short repeatable test ride.",
+          "For sepeda onthel purwodadi searches, this page is intentionally a bicycle decision guide, not a duplicate of the home page. It concentrates on differences between bike options, evidence needed for a reliable list and the questions to ask when the game presents a new offer. That keeps bicycle-related searches on the sepeda page while broader Roblox gameplay questions remain on the home page."
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Bike Information and Evidence Status",
+        "paragraphs": [
+          "Source of record: the Roblox Onthel Purwodadi listing (place ID 110534393529784). The developer description has also been represented in independent metadata mirrors. Neither is a substitute for a current, labeled in-game inventory.",
+          "As of this editorial review, no exact bicycle names, prices or limited drop rates have been independently verified for publication. That absence is an evidence gap, not a statement that the game has no special bikes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Are there different bicycles in Onthel Purwodadi?",
+        "answer": "The public developer description indicates bicycle variety, but a complete model list has not been verified here."
+      },
+      {
+        "question": "Which limited bicycle can I get today?",
+        "answer": "Current limited items, prices and deadlines need to be checked in the live game or a developer announcement."
+      },
+      {
+        "question": "Is there a confirmed fastest bicycle?",
+        "answer": "Not from the sources checked for this guide; claims about speed need actual comparable data."
+      },
+      {
+        "question": "How do I compare two sepeda fairly?",
+        "answer": "Compare on a repeatable route and record the same visible conditions. Do not assume visual differences establish speed or handling statistics."
+      },
+      {
+        "question": "Does a LIMITED game-title update guarantee a bike is available?",
+        "answer": "No. Confirm the actual offer and conditions in the current game or an official developer announcement."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "custom-sepeda",
+      "lokasi"
+    ],
+    "lastReviewed": "2026-11-06"
+  },
+  {
+    "enabled": true,
+    "slug": "custom-sepeda",
+    "pageType": "guide",
+    "navLabel": "Customize",
+    "navVisible": true,
+    "title": "Cara Custom Sepeda Onthel Purwodadi: Bike Guide",
+    "description": "Learn cara custom sepeda in Onthel Purwodadi: what to check before changing a bicycle, how upgrades differ, and safe PC or mobile guidance.",
+    "hero": {
+      "eyebrow": "Onthel Purwodadi Roblox guide",
+      "heading": "Cara Custom Sepeda Onthel Purwodadi: Custom & Upgrade",
+      "lead": "Onthel Purwodadi publicly describes bicycle customization and upgrades. This guide separates cosmetic changes from potential performance upgrades while avoiding unverified button paths, prices or stat bonuses."
+    },
+    "sections": [
+      {
+        "id": "what-custom",
+        "heading": "How Bike Customization Works in Onthel Purwodadi",
+        "paragraphs": [
+          "Cara custom sepeda onthel purwodadi is a natural question for riders who want their bicycle to look or behave differently. Public descriptions confirm bike customization and upgrades as part of the Roblox experience. They do not, on their own, identify the current UI path or every available option.",
+          "A visual modification changes how your bicycle appears; an upgrade may concern progression or vehicle capability. These are different ideas, and treating a cosmetic choice as a guaranteed speed improvement would mislead players.",
+          "For exact interaction steps, start with the current game interface on your own device and follow labels you can actually see. Controls can differ between PC and mobile and may change after an update. Our source set does not establish a verified sequence of buttons, so we do not invent one."
+        ]
+      },
+      {
+        "id": "before-you-customize--identify-the-exact-goal",
+        "heading": "Before You Customize: Identify the Exact Goal",
+        "paragraphs": [
+          "People searching for cara custom sepeda onthel purwodadi do not always want the same result. Some want a different appearance; others hope to change how a bicycle performs, and some simply need to locate the correct in-game menu. Start by naming the result you want. That makes it easier to tell whether a screen is showing a cosmetic choice, a genuine upgrade or information that belongs to a different bicycle.",
+          "Once you are in the live Roblox game, inspect the options that are actually visible for your current bicycle. Read the names and descriptions carefully. If the interface presents a preview, compare it with the current appearance before committing to anything. If a choice shows a cost or prerequisite, pause and verify it. The public descriptions confirm customization and upgrades but do not provide an authoritative, current step-by-step menu sequence for every device.",
+          "Do not treat a changed appearance as proof of a stat boost. Similarly, a label that sounds like an upgrade should not be advertised as faster without on-screen evidence or a controlled comparison. A careful guide tells players which part is confirmed and which result still needs testing. This is especially important when the same term “custom” can be used informally for visual editing and progression."
+        ]
+      },
+      {
+        "id": "custom-vs-upgrade",
+        "heading": "Customization vs. Upgrading a Bike",
+        "subsections": [
+          {
+            "heading": "Appearance-focused customization",
+            "paragraphs": [
+              "This is the part of modification concerned with the bicycle’s visible appearance. The developer describes customization, but individual colors, parts, skins and prices have not been confirmed."
+            ]
+          },
+          {
+            "heading": "Upgrades and progression",
+            "paragraphs": [
+              "The public game description also refers to upgrades. Specific upgrade names, performance effects and cost scaling have not been independently verified."
+            ]
+          },
+          {
+            "heading": "Current menu and device differences",
+            "paragraphs": [
+              "An instruction should identify the current game version, whether it was checked on mobile or PC, and the visible button label. Without those details, a fixed tap sequence is unreliable."
+            ]
+          },
+          {
+            "heading": "Avoid assuming a universal best setup",
+            "paragraphs": [
+              "Player goals differ, and there is no reliable independently checked set of bike stats for ranking individual upgrades. A popular screenshot alone cannot demonstrate performance."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "check-controls",
+        "heading": "How to Verify a Customization Option",
+        "paragraphs": [
+          "Open the correct Roblox experience and look for a clearly labeled customization or upgrade action in the live interface. If there is no visible action, do not rely on unofficial instructions claiming a particular button must exist.",
+          "Read the description of any option before spending in-game currency or other resources, and note whether the displayed change is purely visual or explicitly described as functional. We cannot state exact currencies, prices, unlock levels or refund policies from the public text.",
+          "A reliable walkthrough should record a before-and-after image, the exact option label, the device used and the date tested. These evidence fields help other players see whether the same procedure still applies to their version."
+        ]
+      },
+      {
+        "id": "how-to-check-a-change-without-losing-track",
+        "heading": "How to Check a Change Without Losing Track",
+        "paragraphs": [
+          "A simple before-and-after method works better than guessing. First, record your starting bike and any visible configuration before making a change. Second, note the exact option name shown by the current client. Third, look for an in-game preview, description or confirmation screen. Finally, compare the result with your starting state. If the game offers a reversible preview, use that to understand appearance differences before assuming a permanent effect.",
+          "When testing riding behavior, use a familiar stretch of road and a consistent set of conditions. A single faster-looking animation is not evidence of a measured performance improvement. If you cannot measure the difference reliably, describe the visual change rather than publishing a numerical bonus. This distinction protects players who are trying to decide whether a modification is worth pursuing.",
+          "Device differences also matter. An icon that is obvious on a large monitor may be collapsed into another control on a phone, and the order of controls can change after an update. If you document a procedure for others, mention whether it was observed on PC or mobile, include a review date and avoid implying that one screenshot applies to every device."
+        ]
+      },
+      {
+        "id": "bike-choice",
+        "heading": "Choosing the Right Bike Before You Modify",
+        "paragraphs": [
+          "Before changing a bicycle, confirm that you are looking at the model you intended to use. The bicycle guide is the natural place for known types and any future verified, limited-availability records.",
+          "Players who explore town streets may value different features from those interested in challenges, but it would be irresponsible to claim which exact upgrade works best without a controlled comparison.",
+          "If a claimed special part or limited item appears in a community discussion, cross-check the current game menu and developer announcements rather than publishing an unsourced acquisition tutorial."
+        ],
+        "links": [
+          {
+            "label": "Bicycle types and limited updates",
+            "slug": "sepeda",
+            "description": "Check the evidence status of bikes and limited items."
+          },
+          {
+            "label": "Locations and riding settings",
+            "slug": "lokasi",
+            "description": "Understand the different areas described for exploring the game."
+          }
+        ]
+      },
+      {
+        "id": "common-customization-questions-worth-checking",
+        "heading": "Common Customization Questions Worth Checking",
+        "paragraphs": [
+          "If a customization option is not visible, first make sure you are inside Onthel Purwodadi rather than another Roblox bicycle experience. Next, inspect the current interface for any guidance related to the bike you selected. Do not assume the game has a universal customization shop or an unlock level unless the active version displays one. A missing button may reflect a different screen, a different bike or a changed version.",
+          "If you are searching for upgrades, identify the kind of improvement you expect and whether the interface actually states that outcome. Avoid spending resources on the basis of unsupported community claims. The safest comparison uses the exact wording shown in-game; record any costs only when you can see them, and distinguish an available upgrade from a speculative wish list.",
+          "If your goal is to ride in a particular area, do not start with an unverified “best custom setup.” Use the lokasi guide to understand the kinds of riding environments described for this game, then test your current bike in a setting you can revisit. If your goal is simply to own a different bicycle, begin with the sepeda guide instead of treating customization and acquiring a bike as the same action."
+        ]
+      },
+      {
+        "id": "known-limits",
+        "heading": "Known Facts and What Still Needs Testing",
+        "paragraphs": [
+          "Confirmed at the public-description level: Onthel Purwodadi is about riding bicycles and includes customization/upgrades. Not established: specific menu paths, controls, prices, upgrade effects, a complete parts inventory and which settings are optimal.",
+          "This difference is important for both beginners and returning players. A short accurate explanation with a clear source is more useful than invented, highly specific instructions that may cause players to lose time in the wrong menu."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can you customize bicycles in Onthel Purwodadi?",
+        "answer": "The publicly reproduced developer description mentions bike customization and upgrades."
+      },
+      {
+        "question": "What buttons do I use to customize my bike?",
+        "answer": "A verified step-by-step PC or mobile path is not yet available from the sources used here; confirm the current in-game controls."
+      },
+      {
+        "question": "Are visual changes the same as upgrades?",
+        "answer": "Not necessarily. Do not infer a performance effect without a displayed game description or test."
+      },
+      {
+        "question": "How can I check whether an upgrade changes performance?",
+        "answer": "Read the current in-game option description and, where appropriate, compare rides under consistent conditions. Do not rely on an unverified bonus number."
+      },
+      {
+        "question": "Does the same customization menu work on PC and mobile?",
+        "answer": "Not necessarily. Interface placement may differ, and the exact device-specific sequence has not yet been verified."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "sepeda",
+      "lokasi"
+    ],
+    "lastReviewed": "2026-11-06"
+  },
+  {
+    "enabled": true,
+    "slug": "lokasi",
+    "pageType": "guide",
+    "navLabel": "Locations",
+    "navVisible": true,
+    "title": "Lokasi Onthel Purwodadi: Map & Riding Guide",
+    "description": "Explore lokasi in Onthel Purwodadi: town streets, neighborhood roads and riding routes, plus ways to recognize places without invented map pins.",
+    "hero": {
+      "eyebrow": "Onthel Purwodadi Roblox guide",
+      "heading": "Lokasi Onthel Purwodadi: Places to Explore",
+      "lead": "The developer description portrays a Purwodadi-inspired riding world with town streets, neighborhoods and local lanes. Exact map pins, secret locations and route-by-route directions remain unverified."
+    },
+    "sections": [
+      {
+        "id": "setting",
+        "heading": "Exploring Purwodadi in the Roblox Game",
+        "paragraphs": [
+          "Lokasi onthel purwodadi refers here to the Roblox riding environment, not a real-world travel map of the Indonesian town. Public game descriptions present an environment inspired by Purwodadi, where the focus is exploring and riding a bicycle.",
+          "Descriptions mention town streets, residential environments, village-like roads and local alleys. These are useful categories for understanding the setting, but they do not confirm named districts, spawn coordinates or a complete set of unlockable zones.",
+          "The developer also describes a day-and-night setting and riding challenges. Those features suggest different reasons to explore, but we cannot verify that a particular road becomes harder at night or that a specific race starts at a known coordinate."
+        ]
+      },
+      {
+        "id": "areas",
+        "heading": "Town and Neighborhood Areas",
+        "subsections": [
+          {
+            "heading": "Town streets",
+            "paragraphs": [
+              "A town-street environment is mentioned in public descriptions. We have not verified an official named street list, fastest loop or location of every intersection."
+            ]
+          },
+          {
+            "heading": "Residential settings",
+            "paragraphs": [
+              "The publicly reproduced description refers to residential areas. A general label should not be turned into a fabricated named neighborhood or a claim about rewards found there."
+            ]
+          },
+          {
+            "heading": "Local roads and village-style lanes",
+            "paragraphs": [
+              "Village-style roads and local lanes help describe the game’s setting. No exact route lengths or hidden shortcuts have been verified."
+            ]
+          },
+          {
+            "heading": "Alleys and smaller paths",
+            "paragraphs": [
+              "Alleys appear in the descriptions used for this guide. Claims about one-way passages, shortcuts or secret collectibles require actual gameplay evidence."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-to-explore-without-a-made-up-map",
+        "heading": "How to Explore Without a Made-Up Map",
+        "paragraphs": [
+          "Players searching lokasi onthel purwodadi usually want to know where to ride or how to recognize an area. The official-style descriptions support a Purwodadi-inspired setting with a range of roads and neighborhood environments. They do not provide a confirmed full map, list of secret places or exact coordinates. A useful location guide can still teach an approach that works in the live game rather than pretending to know every waypoint.",
+          "Choose a starting landmark you can recognize on screen and take a short ride in one direction. Notice major turns, intersections and distinctive changes in the street environment. At the next decision point, stop long enough to remember which way you came from. This is a navigation method for players, not a claim that a particular named intersection or district exists in the current Roblox map.",
+          "If you are comparing routes, give each ride a clear purpose: sightseeing, becoming comfortable with your bike or revisiting a spot you already found. Avoid promising a hidden reward at the end of an unverified route. As screenshots from the actual game become available, a verified illustrated route can be added with its start point, direction and last-tested date."
+        ]
+      },
+      {
+        "id": "ride",
+        "heading": "Free Riding, Challenges and Friends",
+        "paragraphs": [
+          "The game is described as offering cycling exploration alongside challenges or races. For free riding, a player can focus on learning the environment and recognizing landmarks they actually encounter. For a challenge, use the current in-game objective text rather than an unverified community route.",
+          "Riding with friends is also part of the publicly described experience. We cannot guarantee the availability of particular lobbies, rewards or party permissions, as those details require separate verification.",
+          "When comparing routes, note whether the source depicts the same game version. Updating your understanding from current gameplay is especially important when a Roblox experience changes its layout or adds new content."
+        ]
+      },
+      {
+        "id": "recognizing-streets-and-neighborhood-environments",
+        "heading": "Recognizing Streets and Neighborhood Environments",
+        "paragraphs": [
+          "Town streets are useful for orientation because they often give players wider visual context than narrow passages. The game description mentions several environment types, so the idea of looking at streets and nearby buildings is supported. It does not establish which road is longest, where a particular store stands or whether every road is connected to a designated challenge. Those details need an in-game map or direct exploration evidence.",
+          "Residential and local roads can be approached as observation tasks. Watch the general shape of a route and the landmarks you pass rather than relying on a copied list of place names. If a road leads into a smaller alley, remember the last recognizable junction before exploring further. The goal is to help you navigate the active game without making promises about invisible checkpoints or secret passages.",
+          "For players using the Indonesian term lokasi, the important distinction is between the game world and real Purwodadi geography. A road in the Roblox experience may be inspired by familiar scenery without matching any exact real-world street. We therefore avoid sending players to real-world maps as if those coordinates were in-game destinations."
+        ]
+      },
+      {
+        "id": "map-evidence",
+        "heading": "Is There a Verified Map or Secret Location List?",
+        "paragraphs": [
+          "No complete official map, precise coordinates or confirmed secret-location catalog has been independently verified in the evidence available for this page. We therefore do not provide an invented map, pin locations or travel-time claims.",
+          "If you are documenting a destination, the most useful evidence is a screenshot showing its readable in-game label and the surrounding environment. Only after an actual route has been traversed should a step-by-step direction list be published.",
+          "A future verified place index can record: the visible place name, identifying screenshot, approach from a tested starting point, device/version and date last checked. Until those are collected, this guide explains general environments without presenting speculation as a walkthrough."
+        ]
+      },
+      {
+        "id": "planning-a-ride-with-friends-or-returning-to-a-place",
+        "heading": "Planning a Ride With Friends or Returning to a Place",
+        "paragraphs": [
+          "When riding with friends, agree on an easy-to-describe meeting point that everyone can see in their current game session. Make sure you are actually in the same Roblox server before trying to meet. Share what you can observe, such as the kind of road or a recognizable nearby object, rather than claiming the game has a guaranteed teleport or waypoint-sharing feature.",
+          "If you want to return to a location later, keep a short record of the route from your starting point. A screenshot of a visible landmark can be more useful than an invented location name. Recheck the route after major updates, since the game world may change over time. The evidence collected here does not support a fixed list of coordinates that will necessarily remain valid across versions.",
+          "Your bicycle may affect how you prefer to explore, but this page does not claim any model is required for any particular road. For choosing a ride, use the sepeda page. For changing a bike, use the custom sepeda guide. Keeping these topics separate makes the location guide focused on routes, recognizable places and navigation rather than repeating the entire game overview."
+        ]
+      },
+      {
+        "id": "prepare",
+        "heading": "Prepare for a Ride",
+        "paragraphs": [
+          "If you are unsure what bicycle to use, start with our bicycle-types guide. If you want to change the appearance of the bike or investigate upgrades before exploring, the customization guide covers the distinctions and points that still need in-game checking.",
+          "The game’s official Roblox page remains the right starting point for the current experience. This independent site is not connected to Roblox and does not operate a separate downloadable or browser-playable copy.",
+          "The broad gameplay description is reflected in third-party Roblox metadata mirrors; individual UI buttons, model names, statistics, map coordinates and current limited offers have not been verified in a live game session."
+        ],
+        "links": [
+          {
+            "label": "Compare bicycles",
+            "slug": "sepeda",
+            "description": "Start by checking the known bike information."
+          },
+          {
+            "label": "Customize your bicycle",
+            "slug": "custom-sepeda",
+            "description": "Learn about modification and upgrades before riding."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is the Onthel Purwodadi map available here?",
+        "answer": "Not as a verified complete map. General area types are described; exact coordinates are not confirmed."
+      },
+      {
+        "question": "Are secret locations confirmed?",
+        "answer": "No specific secret destination is verified by the current sources."
+      },
+      {
+        "question": "Does the game include village roads?",
+        "answer": "The publicly reproduced developer description mentions village-style and local riding environments."
+      },
+      {
+        "question": "How can I find a location again?",
+        "answer": "Choose a recognizable starting point, note major turns and capture a screenshot of landmarks you can see in the live game."
+      },
+      {
+        "question": "Can I use a real Purwodadi map to navigate the Roblox world?",
+        "answer": "No exact geographic equivalence is established. Treat the Roblox setting as inspired by Purwodadi rather than a verified street-for-street map."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "sepeda",
+      "custom-sepeda"
+    ],
+    "lastReviewed": "2026-11-06"
+  }
+]
