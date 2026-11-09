@@ -108,9 +108,10 @@ export interface SiteConfig {
 }
 
 export interface IntegrationConfig {
-  analytics:
-    | { provider: "none" }
-    | { provider: "google-tag-manager"; containerId: string };
+  analytics: {
+    containerId: string | null;
+    measurementId: string | null;
+  };
   ads:
     | { provider: "none" }
     | {

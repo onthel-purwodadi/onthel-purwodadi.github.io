@@ -5,9 +5,15 @@ import type { SeoPageDefinition } from "@/config/types";
 
 const privacyIntegrationParagraphs: string[] = [];
 
-if (integrations.analytics.provider === "google-tag-manager") {
+if (integrations.analytics.containerId) {
   privacyIntegrationParagraphs.push(
-    "This site uses Google Tag Manager to manage measurement tags. Google may process technical visit information under its own privacy terms.",
+    "This site uses Google Tag Manager to manage measurement tags.",
+  );
+}
+
+if (integrations.analytics.measurementId) {
+  privacyIntegrationParagraphs.push(
+    "This site uses Google Analytics 4 to understand aggregate page usage. Google may process technical visit information under its own privacy terms.",
   );
 }
 

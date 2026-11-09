@@ -2,6 +2,7 @@ import type { IntegrationConfig } from "./types";
 import generatedIntegrationsRaw from "../content/generated/integrations.json";
 
 type GeneratedIntegrations = {
+  gaMeasurementId?: string | null;
   gtmContainerId?: string | null;
   bingSiteVerification?: string | null;
 };
@@ -12,6 +13,7 @@ const adScriptUrl = process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_SCRIPT_URL?.trim();
 const adContainerId = process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_CONTAINER_ID?.trim();
 
 const gtmContainerId = generatedIntegrations.gtmContainerId?.trim() ?? "";
+const gaMeasurementId = generatedIntegrations.gaMeasurementId?.trim() ?? "";
 
 const bingFromEnv = process.env.BING_SITE_VERIFICATION?.trim() || "";
 const bingFromGenerated = typeof generatedIntegrations.bingSiteVerification === "string"
@@ -20,9 +22,10 @@ const bingFromGenerated = typeof generatedIntegrations.bingSiteVerification === 
 const bingVerification = bingFromEnv || bingFromGenerated || null;
 
 export const integrations: IntegrationConfig = {
-  analytics: /^GTM-[A-Z0-9]+$/.test(gtmContainerId)
-    ? { provider: "google-tag-manager", containerId: gtmContainerId }
-    : { provider: "none" },
+  analytics: {
+    containerId: /^GTM-[A-Z0-9]+$/.test(gtmContainerId) ? gtmContainerId : null,
+    measurementId: /^G-[A-Z0-9]+$/.test(gaMeasurementId) ? gaMeasurementId : null,
+  },
   ads:
     adScriptUrl && adContainerId
       ? {

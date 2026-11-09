@@ -1,21 +1,25 @@
 import { integrations } from "@/config/integrations";
 
 export function Analytics() {
-  if (integrations.analytics.provider !== "google-tag-manager") return null;
-  const { containerId } = integrations.analytics;
+  const { containerId, measurementId } = integrations.analytics;
+  if (!containerId && !measurementId) return null;
+  const configureAnalytics = measurementId ? `gtag('config', '${measurementId}');` : "";
 
   return (
     <>
-      <script
-        async
-        src={`https://www.googletagmanager.com/gtm.js?id=${containerId}`}
-      />
+      {containerId ? (
+        <script async src={`https://www.googletagmanager.com/gtm.js?id=${containerId}`} />
+      ) : null}
+      {measurementId ? (
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${measurementId}`} />
+      ) : null}
       <script
         dangerouslySetInnerHTML={{
           __html: `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
+            ${configureAnalytics}
           `,
         }}
       />
