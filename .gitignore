@@ -6,7 +6,11 @@ out/
 .DS_Store
 *.tsbuildinfo
 .playwright-cli/
+/.idea/
 release/
 
 # Internal build research must never be committed
 *详情资料*.txt
+/HERO_LAYOUT_FIX_QA.md
+/IMPLEMENTATION_QA.md
+/SEO_REVISION_QA.md
